@@ -1,0 +1,18 @@
+# 仮想環境を無視（名前が .venv の場合）
+.venv/
+
+# Python が自動生成するキャッシュファイル
+__pycache__/
+*.py[cod]
+*.so
+
+# macOS特有の不要ファイル
+.DS_Store
+
+# VSCode や PyCharm を使ってたらこれも（任意）
+.vscode/
+.idea/
+
+# ログファイルや環境変数ファイル
+*.log
+.env
