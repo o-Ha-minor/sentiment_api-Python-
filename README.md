@@ -1,0 +1,2 @@
+# sentiment_api-Python-
+ネガポジを分析してラベルとスコアを返すAPIです。Pythonで書いたシンプルなflaskアプリ。hugging faceで見つけたモデルを使わせてもらっています。
